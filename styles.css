@@ -140,12 +140,7 @@ button:hover {
 
 @media (max-width: 480px) {
     .container {
-/*           padding: 1.5rem;
- */
-        padding-bottom: 50px;
-        padding-right: 30px;
-        padding-left: 30px;
-        padding-top: 80px;
+        padding: 15rem 1.5rem 1.5rem 1.5rem;
     }
 
     h1 {
