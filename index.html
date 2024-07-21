@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pincode Information Finder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Pincode Information Finder</h1>
+        <div class="form-group">
+            <input type="text" id="pincode" placeholder="Enter Pincode" required>
+            <button id="searchBtn">Search</button>
+        </div>
+        <div class="result-container">
+            <p id="infoTitle" class="info-title">Here is all the information about your pincode</p>
+            <div class="info-grid" id="infoGrid">
+                <div class="info-item">
+                    <label>Office Name:</label>
+                    <span id="officeName"></span>
+                </div>
+                <div class="info-item">
+                    <label>District:</label>
+                    <span id="district"></span>
+                </div>
+                <div class="info-item">
+                    <label>State:</label>
+                    <span id="stateName"></span>
+                </div>
+                <div class="info-item">
+                    <label>Circle Name:</label>
+                    <span id="circleName"></span>
+                </div>
+                <div class="info-item">
+                    <label>Division Name:</label>
+                    <span id="divisionName"></span>
+                </div>
+                <div class="info-item">
+                    <label>Region Name:</label>
+                    <span id="regionName"></span>
+                </div>
+                <div class="info-item">
+                    <label>Office Type:</label>
+                    <span id="officeType"></span>
+                </div>
+                <div class="info-item">
+                    <label>Delivery Status:</label>
+                    <span id="deliveryStatus" class="delivery-status"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
