@@ -35,12 +35,12 @@ Follow these instructions to get the Pincode Info App up and running on your loc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/pincode-info-app.git
+   git clone https://github.com/your-username/pincode-india.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd pincode-info-app
+   cd pincode-india
    ```
 
 3. **Install Dependencies**:
@@ -115,4 +115,3 @@ We welcome contributions to improve the app. To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 
-Feel free to adjust any sections to better suit your needs or add more details as necessary.
