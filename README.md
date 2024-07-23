@@ -2,6 +2,8 @@
 
 The **Pincode Info App** provides detailed information about locations based on postal codes (pin codes). By entering a pin code, users can retrieve details such as the city, state, and area associated with that pin code using an external API.
 
+## Link - https://pincodeinfoapp.netlify.app/
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
